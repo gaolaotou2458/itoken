@@ -1,0 +1,8 @@
+com\funtl\itoken\common\utils\MapperUtils.class
+com\funtl\itoken\common\hystrix\Fallback.class
+com\funtl\itoken\common\dto\BaseResult$Cursor.class
+com\funtl\itoken\common\dto\BaseResult$Error.class
+com\funtl\itoken\common\dto\BaseResult.class
+com\funtl\itoken\common\utils\MapperUtils$1.class
+com\funtl\itoken\common\constants\HttpStatusConstans.class
+com\funtl\itoken\common\utils\CookieUtils.class

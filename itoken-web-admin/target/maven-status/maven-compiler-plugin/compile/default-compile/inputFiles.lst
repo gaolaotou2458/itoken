@@ -1,0 +1,9 @@
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\config\WebAdminInterceptorConfig.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\WebAdminApplication.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\service\fallback\AdminServiceFallBack.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\controller\AdminController.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\service\AdminService.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\service\fallback\RedisServiceFallback.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\service\RedisService.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\config\HystrixDashboardConfiguration.java
+F:\GitLab\itoken\itoken-web-admin\src\main\java\com\funtl\itoken\web\admin\interceptor\WebAdminInterceptor.java

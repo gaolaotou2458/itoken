@@ -1,0 +1,7 @@
+com\funtl\itoken\service\sso\mapper\TbSysUserMapper.class
+com\funtl\itoken\service\sso\service\consumer\RedisService.class
+com\funtl\itoken\service\sso\service\impl\LoginServiceImpl.class
+com\funtl\itoken\service\sso\controller\LoginController.class
+com\funtl\itoken\service\sso\service\LoginService.class
+com\funtl\itoken\service\sso\ServiceSSOApplication.class
+com\funtl\itoken\service\sso\service\consumer\fallback\RedisServiceFallback.class

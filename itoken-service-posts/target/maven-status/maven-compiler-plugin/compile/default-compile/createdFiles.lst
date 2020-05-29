@@ -1,0 +1,6 @@
+com\funtl\itoken\service\posts\service\PostsService.class
+com\funtl\itoken\service\posts\controller\PostsController.class
+com\funtl\itoken\service\posts\ServicePostsApplication.class
+com\funtl\itoken\service\admin\config\Swagger2Config.class
+com\funtl\itoken\service\posts\service\impl\PostsServiceImpl.class
+com\funtl\itoken\service\posts\mapper\TbPostsPostExtendMapper.class

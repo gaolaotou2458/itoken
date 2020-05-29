@@ -1,0 +1,5 @@
+com\funtl\itoken\web\admin\WebAdminApplication.class
+com\funtl\itoken\web\admin\service\AdminService.class
+com\funtl\itoken\web\admin\service\fallback\AdminServiceFallBack.class
+com\funtl\itoken\web\admin\config\HystrixDashboardConfiguration.class
+com\funtl\itoken\web\admin\controller\AdminController.class

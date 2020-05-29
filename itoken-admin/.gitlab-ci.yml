@@ -1,0 +1,40 @@
+stages:
+  - build
+  - push
+  - run
+  - clean
+  - test
+
+# 构建
+build:
+  stage: build
+  script:
+    - /usr/local/maven/apache-maven-3.5.3/bin/mvn clean package
+    - cp target/itoken-admin-1.0.0-SNAPSHOT.jar docker
+    - cd docker
+    - docker build -t 192.168.215.117:5000/itoken-admin .
+
+#推送到仓库私服
+push:
+  stage: push
+  script:
+    - docker push 192.168.215.117:5000/itoken-admin
+
+#运行web服务-先关闭后启动
+run:
+  stage: run
+  script:
+    - cd docker
+    - docker-compose down
+    - docker-compose up -d
+
+#删除所有none镜像
+clean:
+  stage: clean
+  script:
+    - docker image prune -a -f
+
+
+
+
+

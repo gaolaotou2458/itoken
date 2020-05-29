@@ -1,0 +1,7 @@
+com\funtl\itoken\common\web\components\datatables\DataTablesResult.class
+com\funtl\itoken\common\web\controller\BaseController.class
+com\funtl\itoken\common\web\interceptor\config\InterceptorConfig.class
+com\funtl\itoken\common\web\service\BaseClientService.class
+com\funtl\itoken\common\web\constants\WebConstants.class
+com\funtl\itoken\common\web\interceptor\ConstantsInterceptor.class
+com\funtl\itoken\common\web\utils\HttpServletUtils.class

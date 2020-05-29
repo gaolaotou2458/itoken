@@ -1,0 +1,9 @@
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\service\PostsService.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\config\WebPostsInterceptorConfig.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\WebPostsApplication.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\controller\PostsController.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\config\HystrixDashboardConfiguration.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\interceptor\WebPostsInterceptor.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\service\fallback\PostsServiceFallBack.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\service\fallback\RedisServiceFallback.java
+F:\GitLab\itoken\itoken-web-posts\src\main\java\com\funtl\itoken\web\posts\service\RedisService.java
